@@ -1,0 +1,11 @@
+Pyrogram==2.0.106
+TgCrypto==1.2.5
+APScheduler==3.10.4
+peewee==3.16.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+urllib3==1.26.6
+wget==3.2
+opencv-python==4.8.0.76
+
+numpy==1.24.4
